@@ -1,4 +1,5 @@
 package com.example.sum;
+import org.springframework.stereotype.Service;
 
 public class SumService {
     public int sum(int a, int b) {
